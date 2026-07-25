@@ -1,0 +1,2 @@
+# AUTONOMOUS-TRAFFIC-MANAGEMENT-SYSTEM-WITH-EMERGENCY-VEHICLE-DETECTION-SYSTEM
+Developed an Autonomous Traffic management System with Emergency Vehicle Detection System using Python, TensorFlow, and OpenCV to detect ambulances in real time. It combines **deep learning** and **audio analysis** for accurate detection. Gained hands-on experience in Machine Learning, Computer Vision, and Image Processing.
